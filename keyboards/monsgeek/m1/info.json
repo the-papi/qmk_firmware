@@ -45,6 +45,11 @@
         "driver": "snled27351",
         "max_brightness": 200,
         "val_steps": 20,
+        "default": {
+            "animation": "solid_color",
+            "hue": 14,
+            "val": 100
+        },
         "animations": {
             "breathing": true,
             "cycle_all": true,
